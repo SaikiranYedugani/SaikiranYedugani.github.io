@@ -1,38 +1,16 @@
 {
-	"name": "myportfolio",
-	"version": "0.1.0",
-	"private": true,
-	"homepage": "https://github.com/SaikiranYedugani/SaikiranYedugani.github.io",
-	"dependencies": {
-	  "@testing-library/jest-dom": "^4.2.4",
-	  "@testing-library/react": "^9.5.0",
-	  "@testing-library/user-event": "^7.2.1",
-	  "gh-pages": "^3.1.0",
-	  "react": "^16.13.1",
-	  "react-dom": "^16.13.1",
-	  "react-scripts": "^2.1.8"
-	},
-	"scripts": {
-	  "start": "react-scripts start",
-	  "build": "react-scripts build",
-	  "deploy": "gh-pages -d build",
-	  "test": "react-scripts test",
-	  "eject": "react-scripts eject"
-	},
-	"eslintConfig": {
-	  "extends": "react-app"
-	},
-	"browserslist": {
-	  "production": [
-		">0.2%",
-		"not dead",
-		"not op_mini all"
-	  ],
-	  "development": [
-		"last 1 chrome version",
-		"last 1 firefox version",
-		"last 1 safari version"
-	  ]
-	}
+	"short_name": "myportfolio",
+	"name": "Portfolio app made with react as part of 'weekend projects' initiative",
+	"icons": [
+	  {
+		"src": "favicon.ico",
+		"sizes": "64x64 32x32 24x24 16x16",
+		"type": "image/x-icon"
+	  }
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
   }
   
