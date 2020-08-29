@@ -2,7 +2,11 @@
 	"name": "myportfolio",
 	"version": "0.1.0",
 	"private": true,
+<<<<<<< HEAD
 	"homepage": "https://github.com/SaikiranYedugani/SaikiranYedugani.github.io",
+=======
+	"homepage": "https://saikiranyedugani.github.io/SaikiranYedugani.github.io/me",
+>>>>>>> d65a6e28... Updates
 	"dependencies": {
 	  "@testing-library/jest-dom": "^4.2.4",
 	  "@testing-library/react": "^9.5.0",
@@ -10,11 +14,11 @@
 	  "gh-pages": "^3.1.0",
 	  "react": "^16.13.1",
 	  "react-dom": "^16.13.1",
-	  "react-scripts": "^2.1.8"
+	  "react-scripts": "3.4.3"
 	},
 	"scripts": {
 	  "start": "react-scripts start",
-	  "build": "react-scripts build",
+	  "build": "react-scripts build", 
 	  "deploy": "gh-pages -d build",
 	  "test": "react-scripts test",
 	  "eject": "react-scripts eject"
