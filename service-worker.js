@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SaikiranYedugani.github.io/me/precache-manifest.cee656045893c783dc850c58abc9f1f3.js"
+  "/SaikiranYedugani/SaikiranYedugani.github.io/precache-manifest.2cc23f355a609a7469ab53183d64c66a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/SaikiranYedugani.github.io/me/index.html", {
+workbox.routing.registerNavigationRoute("/SaikiranYedugani/SaikiranYedugani.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
