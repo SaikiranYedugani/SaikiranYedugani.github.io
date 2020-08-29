@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SaikiranYedugani/SaikiranYedugani.github.io/static/css/main.cfebcb3f.chunk.css"
   },
   {
-    "revision": "c60b28b0db4b59fce3813e156b2c4a94",
+    "revision": "8d7c58b0369ae4f408eda1b73ed450ec",
     "url": "/SaikiranYedugani/SaikiranYedugani.github.io/index.html"
   }
 ];
