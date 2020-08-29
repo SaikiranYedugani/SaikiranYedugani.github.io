@@ -2,11 +2,9 @@
 	"name": "myportfolio",
 	"version": "0.1.0",
 	"private": true,
-<<<<<<< HEAD
+
+
 	"homepage": "https://github.com/SaikiranYedugani/SaikiranYedugani.github.io",
-=======
-	"homepage": "https://saikiranyedugani.github.io/SaikiranYedugani.github.io/me",
->>>>>>> d65a6e28... Updates
 	"dependencies": {
 	  "@testing-library/jest-dom": "^4.2.4",
 	  "@testing-library/react": "^9.5.0",
