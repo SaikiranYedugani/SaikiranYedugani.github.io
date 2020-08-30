@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/SaikiranYedugani/SaikiranYedugani.github.io/static/js/runtime~main.2f563397.js"
   },
   {
-    "revision": "556a7bb6b8bac4abd2ab",
+    "revision": "e1d6b24267154e397257",
     "url": "/SaikiranYedugani/SaikiranYedugani.github.io/static/js/main.1e9e37d9.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/SaikiranYedugani/SaikiranYedugani.github.io/static/js/2.521e897d.chunk.js"
   },
   {
-    "revision": "556a7bb6b8bac4abd2ab",
-    "url": "/SaikiranYedugani/SaikiranYedugani.github.io/static/css/main.cfebcb3f.chunk.css"
+    "revision": "e1d6b24267154e397257",
+    "url": "/SaikiranYedugani/SaikiranYedugani.github.io/static/css/main.5bd5910a.chunk.css"
   },
   {
-    "revision": "8d7c58b0369ae4f408eda1b73ed450ec",
+    "revision": "fadf8858d2340ad1fb12f25e82fb2b17",
     "url": "/SaikiranYedugani/SaikiranYedugani.github.io/index.html"
   }
 ];
