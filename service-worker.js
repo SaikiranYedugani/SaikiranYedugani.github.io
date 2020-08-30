@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SaikiranYedugani/SaikiranYedugani.github.io/precache-manifest.e654026bcf7041a5bd45b392843bdaa3.js"
+  "/SaikiranYedugani/SaikiranYedugani.github.io/precache-manifest.6e4012ab502276d3458ef018ab0a3afb.js"
 );
 
 workbox.clientsClaim();
