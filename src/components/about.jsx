@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a Full Stack Software Developer. I love exploring new technologies and often amazed by the progress we as a human species have made so far in the recent years. </p>
+                    <p>Extremely passionate Full Stack Developer with good knowledge and experience in the field of Information Technology. I am a strongly determined leaner with constantly enhancing my skills by welcoming the opportunity to learn new technologies and put them into practice. </p>
                     </div>
                 </div>
                 </div>
@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript, React, HTML, CSS</p>
+                    <p>I have experience building websites using JavaScript, React, HTML, CSS, Dot Net Framework</p>
                 </div>
                 </div>
             </div>
@@ -47,8 +47,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Data Analysis and Visualization</h3>
+                    <p>Worked as a Data Analyst, I have experience over fundamental concepts of Data Analysis and Visualization. Developed Power BI reports and dasboards to visualize the data.</p>
                 </div>
                 </div>
             </div>
@@ -58,8 +58,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>SharePoint Deveopment</h3>
+                    <p>I have experience in deveoping Sharepoint Modern Websites. Created forms using Microsoft Power Apps.</p>
                 </div>
                 </div>
             </div>
