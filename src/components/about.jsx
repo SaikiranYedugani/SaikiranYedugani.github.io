@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Extremely passionate Full Stack Developer with good knowledge and experience in the field of Information Technology. I am a strongly determined leaner with constantly enhancing my skills by welcoming the opportunity to learn new technologies and put them into practice. </p>
+                    <p>Extremely passionate Full Stack Developer with good knowledge and experience in the field of Information Technology. I am a strongly determined learner with constantly enhancing my skills by welcoming the opportunity to learn new technologies and put them into practice. </p>
                     </div>
                 </div>
                 </div>
@@ -37,55 +37,57 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript, React, HTML, CSS, Dot Net Framework</p>
+                    <p>I have experience building websites using JavaScript, React, HTML, CSS, SQL, C#, MVC Dot Net Framework.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
                 </span>
                 <div className="desc">
-                    <h3>Data Analysis and Visualization</h3>
-                    <p>Worked as a Data Analyst, I have experience over fundamental concepts of Data Analysis and Visualization. Developed Power BI reports and dasboards to visualize the data.</p>
+                    <h3>Data Analysis & Visualization</h3>
+                    <p>Worked as a Data Analyst. Experience over fundamental concepts of Data Analysis, Modelling and Visualization. Developed Power BI reports and dasboards to visualize the data.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+                <img src="https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"/>
                 </span>
                 <div className="desc">
                     <h3>SharePoint Deveopment</h3>
-                    <p>I have experience in deveoping Sharepoint Modern Websites. Created forms using Microsoft Power Apps.</p>
+                    <p>Experience in deveoping Sharepoint Modern Websites. Migrated classic sharepoint websites to Modern. Developed Custom Webparts. Created forms using Microsoft Power Apps.</p>
+                </div>
+                </div>
+            </div>
+          
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                <span className="icon">
+                <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+                </span>
+                <div className="desc">
+                    <h3>Azure Web Services</h3>
+                    <p>Experience on Azure web hosting, Azure SQL, App Services, Azure Repos, Logic Apps, Azure Dev Ops for Team Collaboration.</p>
+                </div>
+                </div>
+            </div>
+              
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                <span className="icon">
+                <img src="https://img.icons8.com/material/48/000000/dynamics-365.png"/>
+                </span>
+                <div className="desc">
+                    <h3>Microsoft Dynamics 365 CRM</h3>
+                    <p>Experience in developing Model Driven, Canvas Apps on Microsoft Power Platform IDE. Automated Processes using Microsoft RPA tool Power Automate.</p>
                 </div>
                 </div>
             </div>
             {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">

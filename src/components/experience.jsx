@@ -23,8 +23,8 @@ render(){
 					               </div>
 
 					               <div className="timeline-label">
-					                  <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-					                  <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+					                  <h2><a href="#">Software Engineer (Full Stack Developer)</a></h2>
+									  <h4><span>Zen3 Info solutions (India) Limited, Hyderabad (November 2016 to Present)</span></h4>
 					               </div>
 					            </div>
 					         </article>
@@ -36,8 +36,8 @@ render(){
 					                  <i className="icon-pen2"></i>
 					               </div>
 					               <div className="timeline-label">
-					               	<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Data Analyst</a></h2>
+									   <h4><span>Zen3 Info solutions (India) Limited, Hyderabad (November 2016 to June 2018)</span></h4>
 					               </div>
 					            </div>
 					         </article>
@@ -48,12 +48,12 @@ render(){
 					                  <i className="icon-pen2"></i>
 					               </div>
 					               <div className="timeline-label">
-					               	<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					               	<h2><a href="#">Jr Developer</a> <span>2017-2018</span></h2>
+									   <h4><span>Kalypso IT Soultions Pvt Limited, Hyderabad (May 2016 to October 2016)</span></h4>
 					               </div>
 					            </div>
 					         </article>
-
+{/* 
 					         <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
 					            <div className="timeline-entry-inner">
 					               <div className="timeline-icon color-4">
@@ -76,7 +76,7 @@ render(){
 					                  <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
 					               </div>
 					            </div>
-					         </article>
+					         </article> */}
 
 					         <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div className="timeline-entry-inner">
