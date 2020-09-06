@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript, React, HTML, CSS, SQL, C#, MVC Dot Net Framework.</p>
+                    <p>Experience in building applications using JavaScript, React, HTML, CSS, SQL, C#, MVC Dot Net Framework.</p>
                 </div>
                 </div>
             </div>
