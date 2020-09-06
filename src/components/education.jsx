@@ -19,7 +19,7 @@ export default class Education extends Component{
 									<div className="panel panel-default">
 									    <div className="panel-heading" role="tab" id="headingOne">
 									        <h4 className="panel-title">
-									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Masters 
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Master Degree
 									            </a>
 									        </h4>
 									    </div>
@@ -40,7 +40,7 @@ export default class Education extends Component{
 									<div className="panel panel-default">
 									    <div className="panel-heading" role="tab" id="headingTwo">
 									        <h4 className="panel-title">
-									            <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor Degree of Computer Science
+									            <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor Degree
 									            </a>
 									        </h4>
 									    </div>
@@ -48,8 +48,7 @@ export default class Education extends Component{
 									        <div className="panel-body">
                                                 <div className="row">
                                                 <div className="col-md-6">
-                                                    <p>Bachelors</p>
-													
+                                                    <p>Bachelor of Technology in Computer Science</p>
                                                     <p>CMR College of Engineering and Technology<br></br>
                                                      JNTUH, India</p>
                                                      </div>
