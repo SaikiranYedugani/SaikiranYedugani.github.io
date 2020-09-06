@@ -97,7 +97,7 @@ export default class SKills extends Component{
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>MVC Dot NEt Framework</h3>
+								<h3>MVC Dot Net Framework</h3>
 								<div className="progress">
 								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="75"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width:'75%'}}>
