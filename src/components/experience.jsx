@@ -24,7 +24,8 @@ render(){
 
 					               <div className="timeline-label">
 					                  <h2><a href="#">Software Engineer (Full Stack Developer)</a></h2>
-									  <h4><span>Zen3 Info solutions (India) Limited, Hyderabad (November 2016 to Present)</span></h4>
+									  <h4><span>Zen3 Info solutions (India) Limited, Hyderabad</span></h4>
+									  <span>November 2016 - Present</span>
 					               </div>
 					            </div>
 					         </article>
@@ -37,7 +38,8 @@ render(){
 					               </div>
 					               <div className="timeline-label">
 					               	<h2><a href="#">Data Analyst</a></h2>
-									   <h4><span>Zen3 Info solutions (India) Limited, Hyderabad (November 2016 to June 2018)</span></h4>
+									   <h4><span>Zen3 Info solutions (India) Limited, Hyderabad </span></h4>
+									   <span>November 2016 - June 2018</span>
 					               </div>
 					            </div>
 					         </article>
@@ -49,7 +51,8 @@ render(){
 					               </div>
 					               <div className="timeline-label">
 					               	<h2><a href="#">Jr Developer</a></h2>
-									   <h4><span>Kalypso IT Soultions Pvt Limited, Hyderabad (May 2016 to October 2016)</span></h4>
+									   <h4><span>Kalypso IT Soultions Pvt Limited, Hyderabad</span></h4>
+									   <span>May 2016 - October 2016</span>
 					               </div>
 					            </div>
 					         </article>
