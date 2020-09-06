@@ -48,7 +48,7 @@ render(){
 					                  <i className="icon-pen2"></i>
 					               </div>
 					               <div className="timeline-label">
-					               	<h2><a href="#">Jr Developer</a> <span>2017-2018</span></h2>
+					               	<h2><a href="#">Jr Developer</a></h2>
 									   <h4><span>Kalypso IT Soultions Pvt Limited, Hyderabad (May 2016 to October 2016)</span></h4>
 					               </div>
 					            </div>
