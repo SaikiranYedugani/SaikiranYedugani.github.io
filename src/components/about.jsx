@@ -48,7 +48,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Analysis & Visualization</h3>
-                    <p>Worked as a Data Analyst. Experience over fundamental concepts of Data Analysis, Modelling and Visualization. Developed Power BI reports and dasboards to visualize the data.</p>
+                    <p>Experience over fundamental concepts of Data Analysis, Modelling and Visualization. Developed efficient Power BI reports and dasboards to visualize the data.</p>
                 </div>
                 </div>
             </div>
